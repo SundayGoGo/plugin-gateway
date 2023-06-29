@@ -968,7 +968,7 @@
                         n = t._self._c || e;
                     return n("div", {
                         staticClass: "app-footer"
-                    }, [t._v("Copyright © 2022-寿光有氧信息科技 "), n("strong", [n("a", {
+                    }, [t._v("Copyright © 2022-潍坊信达胜宇信息科技 "), n("strong", [n("a", {
                         attrs: {
                             href: "https://oxymen.tech/",
                             target: "_blank"
