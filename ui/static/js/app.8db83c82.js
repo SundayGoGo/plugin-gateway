@@ -970,10 +970,10 @@
                         staticClass: "app-footer"
                     }, [t._v("Copyright © 2022-潍坊信达胜宇信息科技 "), n("strong", [n("a", {
                         attrs: {
-                            href: "https://oxymen.tech/",
+                            href: "#",
                             target: "_blank"
                         }
-                    }, [t._v("Oxymen")])]), t._v(" All Rights Reserved.\n    ")])
+                    }, [t._v("")])]), t._v(" All Rights Reserved.\n    ")])
                 }],
                 v = (n("8e6e"), n("bd86")),
                 g = n("2f62"),
